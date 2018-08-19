@@ -217,6 +217,7 @@ p {
         margin-left: 10px;
         margin-right: 35px;
 
+
     }
     .footer {
         text-align: left;
@@ -297,6 +298,7 @@ p {
     #uh {
         margin-left: 10px;
         margin-right: 35px;
+        display: inline-block;
 
     }
     .footer {
@@ -375,6 +377,7 @@ p {
     #uh {
         margin-left: 10px;
         margin-right: 35px;
+        display: inline-block;
 
     }
     .footer {
